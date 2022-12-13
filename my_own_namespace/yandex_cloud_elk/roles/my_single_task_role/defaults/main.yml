@@ -1,0 +1,4 @@
+---
+# defaults file for my_single_task_role
+path: '/tmp/some_file.txt'
+content: 'some strings here \n'

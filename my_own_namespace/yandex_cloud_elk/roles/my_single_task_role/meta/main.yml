@@ -1,0 +1,18 @@
+galaxy_info:
+  author: Bambrino
+  description: Ny single task role for test my_module
+  
+  license: BSD-3-Clause
+
+  min_ansible_version: '2.1'
+
+  platforms:
+   - name: Fedora
+     versions:
+      - all
+   - name: EL
+     versions:
+     - all
+   - name: Debian
+     versions: 
+     - all

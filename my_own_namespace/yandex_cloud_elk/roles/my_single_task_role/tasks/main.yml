@@ -1,0 +1,7 @@
+---
+# tasks file for my_single_task_role
+
+- name: Create file 
+  my_module:
+    path: "{{ path }}"
+    content: "{{ content }}"
